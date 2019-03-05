@@ -17,7 +17,7 @@
 11. Press again the **Send to OpenVR** button.
 12. You should be able te see your paraview case with the headset.
 
-## Known causes of crashes
+## Known causes of crashs
 
 * Moving the camera mith the mouse. Just don't press you mouse buuton when your cursor is in the view window.
 
