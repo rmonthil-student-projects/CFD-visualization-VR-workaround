@@ -16,14 +16,14 @@ This workaround uses the following softwares :
 * The linux distribution tested was [Archlinux](https://www.archlinux.org/).
 
 ## Instructions
-See the INSTALL.md file for the informations about installation.
-See the USE.md file for the informations about using all installed softwares.
+See the [INSTALL.md](INSTALL.md) file for the informations about installation.
+See the [USE.md](USE.md) file for the informations about using all installed softwares.
 
 ## Results
 When tested, it was not comfortable enough. Some effort could be done to make it better. The HTC Vive should be tried, and it should be tested on a windows system too.
 
-## French Tutorial
-Find a french tutorial [here](http://hmf.enseeiht.fr/travaux/beiepe/2019/visualisation-avec-lunettes-3d-des-champs).
+## Tutorial in French
+You can find a tutorial in french [here](http://hmf.enseeiht.fr/travaux/beiepe/2019/visualisation-avec-lunettes-3d-des-champs).
 
 ## Author
 Rémi Monthiller - [LeDernier](https://github.com/LeDernier)
