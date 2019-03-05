@@ -3,7 +3,7 @@
 ## Installing
 
 ### Steam and SteamVR
-)
+
 The following instruction just resume the instructions found [here](https://blog.ybalrid.info/2018/03/20/install-and-run-steamvr-on-archlinux-for-using-an-htc-vive-and-do-opengl-openvr-developement/).
 Just refer to that website in case of issues. 
 
