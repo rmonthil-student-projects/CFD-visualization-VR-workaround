@@ -1,4 +1,4 @@
-# Little tricks to be able to use the headset
+# Little tricks
 
 ## Initial launch
 
