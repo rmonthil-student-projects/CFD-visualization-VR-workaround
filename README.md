@@ -1,4 +1,4 @@
-# CFD_Visualization_VR_Workaround
+# CFD Visualization VR Workaround
 Workaround for the use of a Head-Mounted Display for CFD visualization on Linux.
 
 ## Softwares Used
